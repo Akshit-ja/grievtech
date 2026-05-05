@@ -1,0 +1,82 @@
+{
+    "Unique Key": {
+        "mean": 45051943.106,
+        "std": 1739.50153623424
+    },
+    "Incident Zip": {
+        "mean": 10678.339,
+        "std": 1107.6175912485417
+    },
+    "Facility Type": {
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Due Date": {
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "BBL": {
+        "mean": 2385053764.3185,
+        "std": 1337025882.465954
+    },
+    "X Coordinate (State Plane)": {
+        "mean": 994077.286,
+        "std": 113453.56333677277
+    },
+    "Y Coordinate (State Plane)": {
+        "mean": 208591.898,
+        "std": 38484.764397940366
+    },
+    "Vehicle Type": {
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Taxi Company Borough": {
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Bridge Highway Name": {
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Bridge Highway Direction": {
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Road Ramp": {
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Bridge Highway Segment": {
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Latitude": {
+        "mean": 40.237081003515414,
+        "std": 4.528931131867284
+    },
+    "Longitude": {
+        "mean": -72.99511050127366,
+        "std": 8.214927966818246
+    },
+    "Zip Codes": {
+        "mean": 5.862,
+        "std": 262.1566096820753
+    },
+    "Community Districts": {
+        "mean": 0.035,
+        "std": 1.565247584249853
+    },
+    "Borough Boundaries": {
+        "mean": 0.002,
+        "std": 0.0894427190999916
+    },
+    "City Council Districts": {
+        "mean": 0.025,
+        "std": 1.1180339887498951
+    },
+    "Police Precincts": {
+        "mean": 0.0025,
+        "std": 0.11180339887498945
+    }
+}

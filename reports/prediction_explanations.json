@@ -1,0 +1,902 @@
+[
+    {
+        "prediction": "5",
+        "probability": 0.7455928325653076,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.5541510581970215
+            },
+            {
+                "feature": "Day",
+                "impact": -0.7012420892715454
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.6803473830223083
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.6147316694259644,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.062144756317139
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.4575418531894684
+            },
+            {
+                "feature": "Day",
+                "impact": -0.34251144528388977
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.9542714357376099,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.031971454620361
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.3926321864128113
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.15932777523994446
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.7804816961288452,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.801111221313477
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.3173898160457611
+            },
+            {
+                "feature": "Is_Weekend",
+                "impact": -0.30136388540267944
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.38854676485061646,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.244021892547607
+            },
+            {
+                "feature": "Day",
+                "impact": 0.17959746718406677
+            },
+            {
+                "feature": "Hour",
+                "impact": 0.1580323427915573
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.6992212533950806,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.193923473358154
+            },
+            {
+                "feature": "Day",
+                "impact": 0.2910776436328888
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": 0.18427547812461853
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.81389981508255,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.9631452560424805
+            },
+            {
+                "feature": "Day",
+                "impact": -0.16519014537334442
+            },
+            {
+                "feature": "Part_of_Day",
+                "impact": -0.03229285031557083
+            }
+        ]
+    },
+    {
+        "prediction": "3",
+        "probability": 0.9999467134475708,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.039443492889404
+            },
+            {
+                "feature": "Day",
+                "impact": -0.457785964012146
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.1946728676557541
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.7902831435203552,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.815427303314209
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.372738242149353
+            },
+            {
+                "feature": "Is_Weekend",
+                "impact": -0.32008597254753113
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.5957481861114502,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.677590847015381
+            },
+            {
+                "feature": "Day",
+                "impact": -0.5766998529434204
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.23510737717151642
+            }
+        ]
+    },
+    {
+        "prediction": "2",
+        "probability": 0.7920095324516296,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.0643205642700195
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.49494341015815735
+            },
+            {
+                "feature": "Day",
+                "impact": -0.3960041403770447
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.5733420848846436,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.049353122711182
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.33197852969169617
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.2321050465106964
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.5891885161399841,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.2622151374816895
+            },
+            {
+                "feature": "Hour",
+                "impact": 0.4833988845348358
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.22871677577495575
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.9583423137664795,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.061373710632324
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.2645759880542755
+            },
+            {
+                "feature": "Day",
+                "impact": -0.14351026713848114
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.64763343334198,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.916186809539795
+            },
+            {
+                "feature": "Day",
+                "impact": -0.1915629357099533
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.1490257829427719
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.8709027171134949,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.664371490478516
+            },
+            {
+                "feature": "Day",
+                "impact": -0.8081032037734985
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.40565383434295654
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.7318346500396729,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.435572624206543
+            },
+            {
+                "feature": "Hour",
+                "impact": 0.46881046891212463
+            },
+            {
+                "feature": "Day",
+                "impact": 0.3184725046157837
+            }
+        ]
+    },
+    {
+        "prediction": "2",
+        "probability": 0.646408200263977,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -4.336989402770996
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.29485905170440674
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.13340546190738678
+            }
+        ]
+    },
+    {
+        "prediction": "2",
+        "probability": 0.5333916544914246,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.910600185394287
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.33616796135902405
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.2276604026556015
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.7786308526992798,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.828084945678711
+            },
+            {
+                "feature": "Day",
+                "impact": -0.22133755683898926
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.10181634873151779
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.8113817572593689,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.056116104125977
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.17107842862606049
+            },
+            {
+                "feature": "Hour",
+                "impact": 0.06168634444475174
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.9261034727096558,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.836278915405273
+            },
+            {
+                "feature": "Day",
+                "impact": -0.21879182755947113
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.2174040675163269
+            }
+        ]
+    },
+    {
+        "prediction": "2",
+        "probability": 0.6030084490776062,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.1446380615234375
+            },
+            {
+                "feature": "Day",
+                "impact": 0.33900186419487
+            },
+            {
+                "feature": "Part_of_Day",
+                "impact": -0.13240276277065277
+            }
+        ]
+    },
+    {
+        "prediction": "3",
+        "probability": 0.838600754737854,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.9825119972229
+            },
+            {
+                "feature": "Day",
+                "impact": 0.07824140042066574
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": 0.07448022812604904
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.6727134585380554,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.950138568878174
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.40860792994499207
+            },
+            {
+                "feature": "Day",
+                "impact": -0.3495902419090271
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.43062806129455566,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -3.8531277179718018
+            },
+            {
+                "feature": "Day",
+                "impact": -0.5791448950767517
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.2623336613178253
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.5246492624282837,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.954261302947998
+            },
+            {
+                "feature": "Day",
+                "impact": -0.357250452041626
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.15668079257011414
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.8162249326705933,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.043011665344238
+            },
+            {
+                "feature": "Day",
+                "impact": -0.15845397114753723
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.14446386694908142
+            }
+        ]
+    },
+    {
+        "prediction": "2",
+        "probability": 0.74790358543396,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.684859275817871
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.5894702672958374
+            },
+            {
+                "feature": "Is_Weekend",
+                "impact": -0.22023312747478485
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.5825862288475037,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.920721530914307
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.36761170625686646
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.3631036877632141
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.8268218040466309,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.094779014587402
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.08910173922777176
+            },
+            {
+                "feature": "Hour",
+                "impact": 0.07817748188972473
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.7897836565971375,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.97724723815918
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.313195139169693
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.12720251083374023
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.6653141975402832,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.093155860900879
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": 0.22078879177570343
+            },
+            {
+                "feature": "Day",
+                "impact": -0.05720189958810806
+            }
+        ]
+    },
+    {
+        "prediction": "3",
+        "probability": 0.902190625667572,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.144898891448975
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": 0.14239533245563507
+            },
+            {
+                "feature": "Is_Weekend",
+                "impact": 0.13446317613124847
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.43488991260528564,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.8181562423706055
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.4551142752170563
+            },
+            {
+                "feature": "Day",
+                "impact": -0.3831837475299835
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.7553982734680176,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.594974517822266
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.9678786993026733
+            },
+            {
+                "feature": "Day",
+                "impact": -0.17642585933208466
+            }
+        ]
+    },
+    {
+        "prediction": "3",
+        "probability": 0.998274564743042,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -4.09761905670166
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.42037948966026306
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.2782817482948303
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.7339755296707153,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.1355791091918945
+            },
+            {
+                "feature": "Day",
+                "impact": 0.18220356106758118
+            },
+            {
+                "feature": "Hour",
+                "impact": 0.07622562348842621
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.5164127349853516,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.145350933074951
+            },
+            {
+                "feature": "Part_of_Day",
+                "impact": 0.0967574268579483
+            },
+            {
+                "feature": "Day",
+                "impact": 0.09242948144674301
+            }
+        ]
+    },
+    {
+        "prediction": "3",
+        "probability": 0.9930564761161804,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -3.8463668823242188
+            },
+            {
+                "feature": "Day",
+                "impact": -0.47555357217788696
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.41941556334495544
+            }
+        ]
+    },
+    {
+        "prediction": "2",
+        "probability": 0.45118075609207153,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.047360420227051
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.315533310174942
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.1795281171798706
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.7688841223716736,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.874439716339111
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.3688035309314728
+            },
+            {
+                "feature": "Day",
+                "impact": -0.34065672755241394
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.5130963325500488,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.0351738929748535
+            },
+            {
+                "feature": "Day",
+                "impact": -0.20442499220371246
+            },
+            {
+                "feature": "Part_of_Day",
+                "impact": -0.09957674890756607
+            }
+        ]
+    },
+    {
+        "prediction": "6",
+        "probability": 0.606520414352417,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.812513828277588
+            },
+            {
+                "feature": "Day",
+                "impact": -0.23726233839988708
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.16738305985927582
+            }
+        ]
+    },
+    {
+        "prediction": "3",
+        "probability": 0.7492795586585999,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": 3.5219550132751465
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.2751643657684326
+            },
+            {
+                "feature": "Hour",
+                "impact": 0.17612524330615997
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.7081314921379089,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.984731197357178
+            },
+            {
+                "feature": "Hour",
+                "impact": -0.12075543403625488
+            },
+            {
+                "feature": "Day",
+                "impact": -0.09632803499698639
+            }
+        ]
+    },
+    {
+        "prediction": "5",
+        "probability": 0.6767397522926331,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.257936000823975
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": 0.263593852519989
+            },
+            {
+                "feature": "Day",
+                "impact": 0.13898909091949463
+            }
+        ]
+    },
+    {
+        "prediction": "3",
+        "probability": 0.5829428434371948,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -6.184666633605957
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.05198070406913757
+            },
+            {
+                "feature": "Hour",
+                "impact": 0.03037690743803978
+            }
+        ]
+    },
+    {
+        "prediction": "4",
+        "probability": 0.4942673146724701,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.860025405883789
+            },
+            {
+                "feature": "Day",
+                "impact": -0.5485483407974243
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.23431459069252014
+            }
+        ]
+    },
+    {
+        "prediction": "2",
+        "probability": 0.81231290102005,
+        "top_features": [
+            {
+                "feature": "agency_encoded",
+                "impact": -5.970333099365234
+            },
+            {
+                "feature": "borough_encoded",
+                "impact": -0.5908321142196655
+            },
+            {
+                "feature": "Day",
+                "impact": -0.20839838683605194
+            }
+        ]
+    }
+]

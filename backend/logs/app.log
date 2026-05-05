@@ -1,0 +1,378 @@
+2026-02-21 23:52:56 | INFO | root | Application initialized successfully.
+2026-02-21 23:53:01 | INFO | root | Application initialized successfully.
+2026-02-21 23:53:08 | INFO | root | Application initialized successfully.
+2026-02-21 23:53:14 | INFO | root | Application initialized successfully.
+2026-02-21 23:53:16 | INFO | root | Application initialized successfully.
+2026-02-21 23:58:48 | INFO | root | Application initialized successfully.
+2026-02-22 00:05:29 | INFO | root | Application initialized successfully.
+2026-02-22 00:05:34 | INFO | root | Application initialized successfully.
+2026-02-22 00:05:38 | INFO | root | Application initialized successfully.
+2026-02-22 00:05:41 | INFO | root | Application initialized successfully.
+2026-02-22 00:05:44 | INFO | root | Application initialized successfully.
+2026-02-22 00:05:52 | INFO | root | Application initialized successfully.
+2026-02-22 00:11:25 | INFO | root | Application initialized successfully.
+2026-02-22 00:12:37 | INFO | root | Application initialized successfully.
+2026-02-22 00:13:20 | INFO | root | Application initialized successfully.
+2026-02-22 00:54:43 | INFO | root | Application initialized successfully.
+2026-02-22 00:56:52 | INFO | root | Application initialized successfully.
+2026-02-22 01:16:34 | INFO | root | Application initialized successfully.
+2026-02-22 01:16:51 | INFO | root | Application initialized successfully.
+2026-02-22 01:42:21 | INFO | root | Prediction request received.
+2026-02-22 01:45:59 | INFO | root | Metrics requested.
+2026-02-22 01:52:28 | INFO | root | Application initialized successfully.
+2026-02-22 01:52:41 | INFO | root | Application initialized successfully.
+2026-02-22 02:08:00 | INFO | root | Application initialized successfully.
+2026-02-22 02:08:00 | ERROR | fastapi | Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-02-22 02:11:40 | INFO | root | Application initialized successfully.
+2026-02-22 02:19:54 | INFO | root | Metrics requested.
+2026-02-22 02:25:46 | INFO | root | Application initialized successfully.
+2026-02-22 02:30:50 | INFO | root | Application initialized successfully.
+2026-02-22 02:30:53 | INFO | root | Application initialized successfully.
+2026-02-22 02:31:10 | INFO | root | Application initialized successfully.
+2026-02-22 04:36:57 | INFO | root | Application initialized successfully.
+2026-02-22 04:39:27 | INFO | root | Metrics requested.
+2026-02-22 04:50:57 | INFO | root | Application initialized successfully.
+2026-02-22 04:51:04 | INFO | root | Application initialized successfully.
+2026-02-22 04:51:40 | INFO | root | Application initialized successfully.
+2026-02-22 04:53:27 | INFO | root | Application initialized successfully.
+2026-02-22 05:16:12 | INFO | root | Application initialized successfully.
+2026-02-22 05:16:28 | INFO | root | Application initialized successfully.
+2026-02-22 05:16:49 | INFO | root | Application initialized successfully.
+2026-02-22 05:17:09 | INFO | root | Application initialized successfully.
+2026-02-22 05:23:51 | INFO | root | Application initialized successfully.
+2026-02-22 05:33:41 | INFO | root | Application initialized successfully.
+2026-02-22 05:34:04 | INFO | root | Application initialized successfully.
+2026-02-22 05:35:00 | INFO | root | Application initialized successfully.
+2026-02-22 05:35:05 | INFO | root | Application initialized successfully.
+2026-02-22 05:35:12 | INFO | root | Application initialized successfully.
+2026-02-22 05:40:22 | INFO | root | Application initialized successfully.
+2026-02-22 05:42:49 | INFO | root | Application initialized successfully.
+2026-02-22 05:49:24 | INFO | root | Application initialized successfully.
+2026-02-22 05:50:23 | INFO | root | Application initialized successfully.
+2026-02-22 05:50:36 | INFO | root | Application initialized successfully.
+2026-02-22 05:51:20 | INFO | root | Application initialized successfully.
+2026-02-22 05:54:43 | INFO | root | Application initialized successfully.
+2026-02-22 05:58:52 | INFO | root | Application initialized successfully.
+2026-02-22 06:00:08 | INFO | root | Prediction request received.
+2026-02-22 17:42:36 | INFO | root | Application initialized successfully.
+2026-02-22 18:58:31 | INFO | root | Application initialized successfully.
+2026-02-22 19:16:10 | INFO | root | Application initialized successfully.
+2026-02-22 19:17:58 | INFO | root | Application initialized successfully.
+2026-02-22 19:18:08 | INFO | root | Application initialized successfully.
+2026-02-22 19:18:18 | INFO | root | Application initialized successfully.
+2026-02-22 19:46:44 | INFO | root | Application initialized successfully.
+2026-02-22 19:54:10 | INFO | root | Application initialized successfully.
+2026-02-22 19:54:18 | INFO | root | Application initialized successfully.
+2026-02-22 20:11:49 | INFO | root | Application initialized successfully.
+2026-02-22 20:26:17 | INFO | root | Application initialized successfully.
+2026-02-22 20:26:20 | INFO | root | Application initialized successfully.
+2026-02-22 20:26:32 | INFO | root | Application initialized successfully.
+2026-02-22 20:43:52 | INFO | root | Application initialized successfully.
+2026-02-22 20:44:17 | INFO | root | Application initialized successfully.
+2026-02-22 20:48:37 | INFO | root | Application initialized successfully.
+2026-02-22 20:55:39 | INFO | root | Application initialized successfully.
+2026-02-22 21:53:11 | INFO | root | Application initialized successfully.
+2026-02-22 21:53:22 | INFO | root | Application initialized successfully.
+2026-02-22 21:53:38 | INFO | root | Application initialized successfully.
+2026-02-22 22:04:24 | INFO | root | Application initialized successfully.
+2026-02-22 22:04:38 | INFO | root | Application initialized successfully.
+2026-02-23 01:36:08 | INFO | root | Application initialized successfully.
+2026-02-23 02:03:18 | INFO | root | Application initialized successfully.
+2026-02-23 02:10:43 | INFO | root | Prediction request received.
+2026-02-23 02:19:00 | INFO | root | Metrics requested.
+2026-02-23 02:53:09 | INFO | root | Prediction request received.
+2026-02-23 03:36:51 | INFO | root | Application initialized successfully.
+2026-02-23 03:37:17 | INFO | root | Application initialized successfully.
+2026-02-23 03:40:07 | INFO | root | Application initialized successfully.
+2026-02-23 03:41:17 | INFO | root | Prediction request received.
+2026-02-23 03:41:17 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-23 03:44:31 | INFO | root | Prediction request received.
+2026-02-23 03:44:31 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-23 03:44:33 | INFO | root | Prediction request received.
+2026-02-23 03:44:33 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-24 01:29:28 | INFO | root | Application initialized successfully.
+2026-02-24 01:29:28 | ERROR | fastapi | Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-02-24 01:32:41 | INFO | root | Application initialized successfully.
+2026-02-24 01:41:31 | INFO | root | Application initialized successfully.
+2026-02-24 01:59:09 | INFO | root | Application initialized successfully.
+2026-02-24 01:59:33 | INFO | root | Application initialized successfully.
+2026-02-24 02:06:06 | INFO | root | Application initialized successfully.
+2026-02-24 02:06:12 | INFO | root | Application initialized successfully.
+2026-02-24 02:06:35 | INFO | root | Application initialized successfully.
+2026-02-24 02:06:40 | INFO | root | Application initialized successfully.
+2026-02-24 02:06:44 | INFO | root | Application initialized successfully.
+2026-02-24 02:06:51 | INFO | root | Application initialized successfully.
+2026-02-24 02:06:56 | INFO | root | Application initialized successfully.
+2026-02-24 02:07:12 | INFO | root | Application initialized successfully.
+2026-02-24 02:07:58 | INFO | root | Prediction request received.
+2026-02-24 02:42:43 | INFO | root | Application initialized successfully.
+2026-02-24 02:42:43 | INFO | root | Application initialized successfully.
+2026-02-24 03:04:23 | INFO | root | Application initialized successfully.
+2026-02-24 03:04:23 | INFO | root | Application initialized successfully.
+2026-02-24 03:04:56 | INFO | root | Application initialized successfully.
+2026-02-24 03:04:56 | INFO | root | Application initialized successfully.
+2026-02-24 03:05:04 | INFO | root | Application initialized successfully.
+2026-02-24 03:05:04 | INFO | root | Application initialized successfully.
+2026-02-24 03:05:10 | INFO | root | Application initialized successfully.
+2026-02-24 03:05:13 | INFO | root | Application initialized successfully.
+2026-02-24 03:05:17 | INFO | root | Application initialized successfully.
+2026-02-24 03:07:46 | INFO | root | Application initialized successfully.
+2026-02-24 03:18:23 | INFO | root | Prediction request received.
+2026-02-24 03:18:23 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-24 03:18:45 | INFO | root | Prediction request received.
+2026-02-24 03:18:45 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-24 03:18:47 | INFO | root | Prediction request received.
+2026-02-24 03:18:47 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-24 03:18:47 | INFO | root | Prediction request received.
+2026-02-24 03:18:47 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-24 03:18:48 | INFO | root | Prediction request received.
+2026-02-24 03:18:48 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-24 03:18:50 | INFO | root | Prediction request received.
+2026-02-24 03:18:50 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-24 03:19:27 | INFO | root | Metrics requested.
+2026-02-24 03:19:27 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-24 04:33:01 | INFO | root | Application initialized successfully.
+2026-02-24 04:54:16 | INFO | root | Metrics requested.
+2026-02-24 04:54:16 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 14:39:56 | INFO | root | Application initialized successfully.
+2026-02-25 14:43:40 | INFO | root | Prediction request received.
+2026-02-25 14:43:40 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 14:52:16 | INFO | root | Metrics requested.
+2026-02-25 14:52:16 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 14:52:19 | INFO | root | Metrics requested.
+2026-02-25 14:52:19 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 14:52:27 | INFO | root | Metrics requested.
+2026-02-25 14:52:27 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 14:52:36 | INFO | root | Metrics requested.
+2026-02-25 14:52:36 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 14:55:17 | INFO | root | Metrics requested.
+2026-02-25 14:55:17 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 14:56:42 | INFO | root | Metrics requested.
+2026-02-25 14:56:42 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 15:35:24 | INFO | root | Application initialized successfully.
+2026-02-25 15:35:39 | INFO | root | Application initialized successfully.
+2026-02-25 15:36:02 | INFO | root | Application initialized successfully.
+2026-02-25 15:36:44 | INFO | root | Application initialized successfully.
+2026-02-25 15:37:21 | INFO | root | Application initialized successfully.
+2026-02-25 15:37:40 | INFO | root | Application initialized successfully.
+2026-02-25 15:37:53 | INFO | root | Application initialized successfully.
+2026-02-25 15:38:22 | INFO | root | Application initialized successfully.
+2026-02-25 15:38:32 | INFO | root | Application initialized successfully.
+2026-02-25 15:39:03 | INFO | root | Prediction request received.
+2026-02-25 15:39:03 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 15:41:32 | INFO | root | Prediction request received.
+2026-02-25 15:41:32 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 15:50:34 | INFO | root | Metrics requested.
+2026-02-25 15:50:34 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 17:58:02 | INFO | root | Application initialized successfully.
+2026-02-25 17:58:19 | INFO | root | Application initialized successfully.
+2026-02-25 17:59:04 | INFO | root | Application initialized successfully.
+2026-02-25 17:59:13 | INFO | root | Application initialized successfully.
+2026-02-25 17:59:23 | INFO | root | Application initialized successfully.
+2026-02-25 17:59:34 | INFO | root | Application initialized successfully.
+2026-02-25 17:59:46 | INFO | root | Application initialized successfully.
+2026-02-25 18:00:14 | INFO | root | Application initialized successfully.
+2026-02-25 18:01:03 | INFO | root | Application initialized successfully.
+2026-02-25 18:01:14 | INFO | root | Application initialized successfully.
+2026-02-25 18:02:23 | INFO | root | Application initialized successfully.
+2026-02-25 18:03:14 | INFO | root | Application initialized successfully.
+2026-02-25 18:03:44 | INFO | root | Application initialized successfully.
+2026-02-25 18:04:20 | INFO | root | Application initialized successfully.
+2026-02-25 18:04:30 | INFO | root | Application initialized successfully.
+2026-02-25 18:13:59 | INFO | root | Application initialized successfully.
+2026-02-25 18:22:50 | INFO | root | Prediction request received.
+2026-02-25 18:22:50 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 18:24:29 | INFO | root | Metrics requested.
+2026-02-25 18:24:30 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 18:24:39 | INFO | root | Prediction request received.
+2026-02-25 18:24:39 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 18:25:07 | INFO | root | Metrics requested.
+2026-02-25 18:25:07 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 18:26:47 | INFO | root | Prediction request received.
+2026-02-25 18:26:47 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 18:26:54 | INFO | root | Metrics requested.
+2026-02-25 18:26:54 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 18:26:55 | INFO | root | Prediction request received.
+2026-02-25 18:26:55 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 21:32:44 | INFO | root | Application initialized successfully.
+2026-02-25 21:32:57 | INFO | root | Application initialized successfully.
+2026-02-25 21:33:03 | INFO | root | Application initialized successfully.
+2026-02-25 21:33:55 | INFO | root | Application initialized successfully.
+2026-02-25 21:34:02 | INFO | root | Application initialized successfully.
+2026-02-25 21:42:23 | INFO | root | Application initialized successfully.
+2026-02-25 21:43:13 | INFO | root | Application initialized successfully.
+2026-02-25 21:43:24 | INFO | root | Application initialized successfully.
+2026-02-25 21:43:34 | INFO | root | Application initialized successfully.
+2026-02-25 21:52:32 | INFO | root | Application initialized successfully.
+2026-02-25 21:52:51 | INFO | root | Application initialized successfully.
+2026-02-25 21:52:57 | INFO | root | Application initialized successfully.
+2026-02-25 21:53:08 | INFO | root | Application initialized successfully.
+2026-02-25 21:53:15 | INFO | root | Application initialized successfully.
+2026-02-25 21:53:48 | INFO | root | Application initialized successfully.
+2026-02-25 21:54:02 | INFO | root | Application initialized successfully.
+2026-02-25 21:54:29 | INFO | root | Application initialized successfully.
+2026-02-25 21:54:33 | INFO | root | Application initialized successfully.
+2026-02-25 21:54:38 | INFO | root | Application initialized successfully.
+2026-02-25 21:54:45 | INFO | root | Application initialized successfully.
+2026-02-25 21:54:52 | INFO | root | Application initialized successfully.
+2026-02-25 21:55:33 | INFO | root | Application initialized successfully.
+2026-02-25 22:18:35 | INFO | root | Metrics requested.
+2026-02-25 22:18:35 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 22:30:01 | INFO | root | Prediction request received.
+2026-02-25 22:30:01 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 22:30:31 | INFO | root | Prediction request received.
+2026-02-25 22:30:31 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 22:30:43 | INFO | root | Prediction request received.
+2026-02-25 22:30:43 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 22:31:13 | INFO | root | Metrics requested.
+2026-02-25 22:31:13 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 22:31:17 | INFO | root | Prediction request received.
+2026-02-25 22:31:17 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 22:31:45 | INFO | root | Metrics requested.
+2026-02-25 22:31:45 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 22:36:19 | INFO | root | Prediction request received.
+2026-02-25 22:36:19 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-25 22:36:47 | INFO | root | Metrics requested.
+2026-02-25 22:36:47 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-25 22:36:51 | INFO | root | Prediction request received.
+2026-02-25 22:36:51 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-02-26 00:50:17 | INFO | root | Application initialized successfully.
+2026-02-26 00:50:57 | INFO | root | Application initialized successfully.
+2026-02-26 12:34:46 | INFO | root | Application initialized successfully.
+2026-02-26 12:37:04 | INFO | root | Application initialized successfully.
+2026-02-27 00:14:37 | INFO | root | Application initialized successfully.
+2026-02-27 00:25:20 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 00:27:22 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 00:52:52 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 00:52:55 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 00:54:58 | INFO | root | Metrics requested.
+2026-02-27 00:54:58 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-27 00:55:24 | INFO | root | Metrics requested.
+2026-02-27 00:55:24 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-02-27 01:05:12 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:05:35 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:05:42 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:05:56 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:06:02 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:06:11 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:06:21 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:06:27 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:07:04 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:07:11 | INFO | root | GrievTech Backend initialized successfully.
+2026-02-27 01:08:42 | INFO | root | Metrics requested.
+2026-02-27 01:08:42 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-03-10 00:00:58 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-10 00:02:20 | INFO | root | Metrics requested.
+2026-03-10 00:02:20 | ERROR | backend.services.metrics_service | Metrics calculation failed: Could not convert string '0.83330.92220.9222v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0v_1.0.0' to numeric
+2026-03-10 00:25:31 | INFO | root | Single prediction request received.
+2026-03-10 00:25:31 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-10 00:25:31 | INFO | root | Prediction completed successfully.
+2026-03-10 00:26:39 | INFO | root | Single prediction request received.
+2026-03-10 00:26:39 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-10 00:26:39 | INFO | root | Prediction completed successfully.
+2026-03-10 00:26:47 | INFO | root | Metrics requested.
+2026-03-10 00:26:47 | ERROR | backend.services.metrics_service | Metrics calculation failed: Error tokenizing data. C error: Expected 6 fields in line 24, saw 7
+
+2026-03-10 00:26:57 | INFO | root | Single prediction request received.
+2026-03-10 00:26:57 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-10 00:26:57 | INFO | root | Prediction completed successfully.
+2026-03-10 00:28:02 | INFO | root | Metrics requested.
+2026-03-10 00:28:02 | ERROR | backend.services.metrics_service | Metrics calculation failed: Error tokenizing data. C error: Expected 6 fields in line 24, saw 7
+
+2026-03-10 02:10:46 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-10 02:32:03 | INFO | root | Single prediction request received.
+2026-03-10 02:32:03 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-10 02:32:03 | INFO | root | Prediction completed successfully.
+2026-03-10 02:32:54 | INFO | root | Metrics requested.
+2026-03-10 02:32:54 | ERROR | backend.services.metrics_service | Metrics calculation failed: Error tokenizing data. C error: Expected 6 fields in line 24, saw 7
+
+2026-03-10 02:33:09 | INFO | root | Metrics requested.
+2026-03-10 02:33:09 | ERROR | backend.services.metrics_service | Metrics calculation failed: Error tokenizing data. C error: Expected 6 fields in line 24, saw 7
+
+2026-03-10 18:23:29 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-10 18:27:26 | INFO | root | Single prediction request received.
+2026-03-10 18:27:27 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-10 18:27:27 | INFO | root | Prediction completed successfully.
+2026-03-10 18:27:36 | INFO | root | Metrics requested.
+2026-03-10 18:27:36 | ERROR | backend.services.metrics_service | Metrics calculation failed: Error tokenizing data. C error: Expected 6 fields in line 24, saw 7
+
+2026-03-10 18:29:58 | INFO | root | Single prediction request received.
+2026-03-10 18:29:58 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-10 18:29:58 | INFO | root | Prediction completed successfully.
+2026-03-10 18:30:04 | INFO | root | Metrics requested.
+2026-03-10 18:30:04 | ERROR | backend.services.metrics_service | Metrics calculation failed: Error tokenizing data. C error: Expected 6 fields in line 24, saw 7
+
+2026-03-10 18:30:08 | INFO | root | Metrics requested.
+2026-03-10 18:30:08 | ERROR | backend.services.metrics_service | Metrics calculation failed: Error tokenizing data. C error: Expected 6 fields in line 24, saw 7
+
+2026-03-10 20:39:36 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-10 20:39:39 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:01:55 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:01:59 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:11:38 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:11:44 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:11:48 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:11:53 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:12:24 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:13:03 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:13:07 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:13:11 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:13:27 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:14:27 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:14:33 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:15:24 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:15:31 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:16:26 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:17:49 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:17:58 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:18:04 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:19:20 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:19:58 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:20:06 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:21:06 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:21:20 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:21:28 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:22:01 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:23:10 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:23:19 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:24:59 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:25:05 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:25:11 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:25:37 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:26:36 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:26:47 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:28:09 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:29:34 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:29:41 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:30:12 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:35:58 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:36:09 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:42:21 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:42:30 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:47:51 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:47:59 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:48:05 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 02:54:14 | INFO | root | GrievTech Backend initialized successfully.
+2026-03-11 03:02:57 | INFO | root | Single prediction request received.
+2026-03-11 03:02:57 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-11 03:02:57 | INFO | root | Prediction completed successfully.
+2026-03-11 03:03:02 | INFO | root | Single prediction request received.
+2026-03-11 03:03:02 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-11 03:03:02 | INFO | root | Prediction completed successfully.
+2026-03-11 03:03:34 | INFO | root | Single prediction request received.
+2026-03-11 03:03:34 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-11 03:03:34 | INFO | root | Prediction completed successfully.
+2026-03-18 19:57:32 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-18 19:57:32 | INFO | root | Prediction completed in 0.05s
+2026-03-19 06:12:48 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-19 06:12:48 | INFO | root | Prediction completed in 0.13s
+2026-03-19 08:11:52 | INFO | backend.services.model_service | Logged 1 predictions.
+2026-03-19 08:11:52 | INFO | root | Prediction completed in 0.12s

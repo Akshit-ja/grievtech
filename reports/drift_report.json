@@ -1,0 +1,9 @@
+{
+    "baseline_recall": 0.9390842191332788,
+    "live_recall": 0.0,
+    "recall_drop": 0.9390842191332788,
+    "drift_score": 3509512.0961079216,
+    "drift_severity": "CRITICAL",
+    "drift_alert": true,
+    "timestamp": "2026-03-11 03:27:58"
+}

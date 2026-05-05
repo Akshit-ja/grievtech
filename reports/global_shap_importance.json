@@ -1,0 +1,34 @@
+[
+    {
+        "feature": "agency_encoded",
+        "importance": 5.776698112487793
+    },
+    {
+        "feature": "Day",
+        "importance": 0.2347402125597
+    },
+    {
+        "feature": "Hour",
+        "importance": 0.229140505194664
+    },
+    {
+        "feature": "borough_encoded",
+        "importance": 0.1773606687784195
+    },
+    {
+        "feature": "Is_Weekend",
+        "importance": 0.059441450983285904
+    },
+    {
+        "feature": "Part_of_Day",
+        "importance": 0.05404495820403099
+    },
+    {
+        "feature": "Month",
+        "importance": 3.411874786252156e-05
+    },
+    {
+        "feature": "Year",
+        "importance": 0.0
+    }
+]
