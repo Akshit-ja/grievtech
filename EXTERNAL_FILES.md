@@ -4,8 +4,9 @@ This repository had large files removed from git history and stored externally.
 
 Please upload the folder `removed_large_files` (located one level above the repository root) to your cloud storage (Google Drive, S3, etc.) and paste the shareable link below.
 
+- External files link:
 
-  (paste your shareable link here)
+  https://drive.google.com/drive/folders/1hNqnpVP-JGB7FHBDEhlus8NEffLqJ8M1?usp=sharing
 
 Notes
 
