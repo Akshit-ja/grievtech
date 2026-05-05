@@ -1,0 +1,13 @@
+# Ignore external large files folder
+removed_large_files/
+
+# Ignore model binaries that should be stored externally
+models/*.pkl
+models/*.joblib
+
+# Ignore local data downloads
+src/data/*.csv
+
+# Python env
+.venv/
+venv/
